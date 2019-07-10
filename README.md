@@ -1,2 +1,2 @@
 # fabricadesites.github.io
-Projeto Fábrica de Sites Ganhe conosco, aprenda como a gente!
+Projeto Fábrica de Sites Ganhe conosco, aprenda com a gente!
